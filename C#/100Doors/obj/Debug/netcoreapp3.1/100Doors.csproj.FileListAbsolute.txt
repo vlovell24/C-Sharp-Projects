@@ -1,0 +1,11 @@
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\obj\Debug\netcoreapp3.1\100Doors.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\obj\Debug\netcoreapp3.1\100Doors.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\obj\Debug\netcoreapp3.1\100Doors.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\bin\Debug\netcoreapp3.1\100Doors.exe
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\bin\Debug\netcoreapp3.1\100Doors.deps.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\bin\Debug\netcoreapp3.1\100Doors.runtimeconfig.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\bin\Debug\netcoreapp3.1\100Doors.runtimeconfig.dev.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\bin\Debug\netcoreapp3.1\100Doors.dll
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\bin\Debug\netcoreapp3.1\100Doors.pdb
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\obj\Debug\netcoreapp3.1\100Doors.dll
+C:\Users\Jeremy\Desktop\Val's Projects\C#\100Doors\obj\Debug\netcoreapp3.1\100Doors.pdb

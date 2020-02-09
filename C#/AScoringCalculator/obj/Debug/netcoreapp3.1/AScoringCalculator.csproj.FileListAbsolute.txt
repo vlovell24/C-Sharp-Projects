@@ -1,0 +1,11 @@
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\bin\Debug\netcoreapp3.1\AScoringCalculator.exe
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\bin\Debug\netcoreapp3.1\AScoringCalculator.deps.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\bin\Debug\netcoreapp3.1\AScoringCalculator.runtimeconfig.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\bin\Debug\netcoreapp3.1\AScoringCalculator.runtimeconfig.dev.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\bin\Debug\netcoreapp3.1\AScoringCalculator.dll
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\bin\Debug\netcoreapp3.1\AScoringCalculator.pdb
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\obj\Debug\netcoreapp3.1\AScoringCalculator.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\obj\Debug\netcoreapp3.1\AScoringCalculator.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\obj\Debug\netcoreapp3.1\AScoringCalculator.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\obj\Debug\netcoreapp3.1\AScoringCalculator.dll
+C:\Users\Jeremy\Desktop\Val's Projects\C#\AScoringCalculator\obj\Debug\netcoreapp3.1\AScoringCalculator.pdb

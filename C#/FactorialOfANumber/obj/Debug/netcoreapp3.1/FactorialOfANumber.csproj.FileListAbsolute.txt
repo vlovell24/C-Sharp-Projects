@@ -1,0 +1,11 @@
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.exe
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.deps.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.runtimeconfig.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.runtimeconfig.dev.json
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.dll
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.pdb
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.dll
+C:\Users\Jeremy\Desktop\Val's Projects\C#\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.pdb
